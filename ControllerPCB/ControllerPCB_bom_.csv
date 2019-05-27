@@ -1,0 +1,48 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
+1,Single-cell battery,Battery_Cell,BT1,Battery_Cell,Keystone_3034_1x20mm-CoinCell,1,36-3034-ND
+2,"Unpolarized capacitor, small symbol",C_Small,C5 C6 C7 C10 C11 C12,0.1u,SMD_pkg_0805,6,~
+3,"Unpolarized capacitor, small symbol",C_Small,C3 C4,0.1u,R_0402,2,~
+4,"Unpolarized capacitor, small symbol",C_Small,C1 C2 C9,1u,SMD_pkg_0805,3,~
+5,"Unpolarized capacitor, small symbol",C_Small,C8,4.7u,SMD_pkg_0805,1,~
+6,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03,J5,HALL,Pin_Header_Straight_1x03_Pitch1.27mm,1,~
+7,"Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x03_Odd_Even,J10,ICSP,Pin_Header_Straight_2x03_Pitch2.54mm,1,~
+8,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J6,LEDs & BUZZ,Pin_Header_Straight_1x04_Pitch1.27mm,1,~
+9,Micro SD Card Socket,Micro_SD_Card,J4,Micro_SD_Card,Hirose_DM3D-SF,1,HR1941CT-ND
+10,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J8,OLED,Pin_Header_Straight_1x04_Pitch1.27mm,1,~
+11,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J1,PWR,JST_XH_S02B-XH-A_02x2.50mm_Angled,1,~
+12,"Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Screw_Terminal_01x02,J3,TC1,TerminalBlock_RND_205-00232_1x02_P5.08mm_Horizontal,1,~
+13,"Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Screw_Terminal_01x02,J2,TC2,TerminalBlock_RND_205-00232_1x02_P5.08mm_Horizontal,1,~
+14,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03,J9,TEMP,JST_XH_B03B-XH-A_03x2.50mm_Straight,1,~
+15,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03,J7,UART,Pin_Header_Straight_1x03_Pitch1.27mm,1,~
+16,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06,P2,Analog,Socket_Strip_Arduino_1x06,1,
+17,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01,P5 P6 P7 P8,CONN_01X01,Arduino_1pin,4,
+18,"Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x10,P3,Digital,Socket_Strip_Arduino_1x10,1,
+19,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x08,P4,Digital,Socket_Strip_Arduino_1x08,1,
+20,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x08,P1,Power,Socket_Strip_Arduino_1x08,1,
+21,Resistor,R,R3,0,SMD_pkg_0805,1,~
+22,Resistor,R,R4 R5,330,SMD_pkg_0805,2,~
+23,Resistor,R,R1 R2,4K7,SMD_pkg_0805,2,~
+24,,74HC4050,U4,74HC4050,SOIC-16_N,1,1727-6331-1-ND
+25,"1A 20V Fixed LDO Linear Regulator, 1.2V, SOT-89/SOT-223/TO-220/TO-252/TO-263",AZ1117-3.3,U2,AZ1117-3.3,SOT-223-3_TabPin2,1,AZ1117EH-3.3TRG1DICT-ND
+26,"64 x 8, Serial, I2C Real-time clock, 4.5V to 5.5V VCC, 0°C to +70°C, DIP-8",DS1307+,U3,DS1307+,SOIC-8_N,1,DS1307Z+T&RCT-ND
+27,"1A step-down regulator module, fixed 5V output voltage, 5-36V input voltage, -40°C to +85°C temperature range, TO-220 compatible LM78xx replacement",TSR_1-2412,U1,LM2596 Module,LM2596_Module,1,http://www.tracopower.com/products/tsr1.pdf
+28,,MAX6675,U6 U7,MAX6675,SOIC-8_N,2,
+29,"Ultra low power 2.4GHz RF Transceiver, Carrier PCB",NRF24L01_Breakout,U5,NRF24L01_Breakout,JST_XH_B08B-XH-A_08x2.50mm_Straight,1,http://www.nordicsemi.com/eng/content/download/2730/34105/file/nRF24L01_Product_Specification_v2_0.pdf
+30,Two pin crystal,Crystal,Y1,Crystal,Crystal_C38-LF_d3.0mm_l8.0mm_Horizontal,1,535-9034-ND
+31,,Logo,logo1,Logo,SN_BLOCK,1,
+32,,Logo,logo3,Logo,KiCad-Logo_8mm_SilkScreen,1,
+
+
+
+
+
+Component Groups:,32
+Component Count:,46
+Fitted Components:,46
+Number of PCBs:,1
+Total components:,46
+Schematic Version:,
+Schematic Date:,lun. 30 mars 2015
+BoM Date:,5/26/2019 9:39:06 AM
+Schematic Source:,C:\projects\BAJA\ControllerPCB\ControllerPCB.sch
+KiCad Version:,Eeschema (5.0.2)-1

@@ -1,0 +1,33 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
+1,"Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x01_Female,Crimp1,M3 Ring,,10,277-11117-ND
+2,Fuse,Fuse,F1 F2 F3 F4 F5,Fuse,Fuse_ATC_ATO_BLADE,10,36-3522-ND
+4,"Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)",Screw_Terminal_01x01,J1 J2 J3 J4 J5 J7 J8 J9 J10 J11,M3_Lug,LVDC_M3_Lug,10,36-7771-ND
+,,3A,,,,3,F4193-ND
+,,10A,,,,2,F4199-ND
+,,20A,,,,2,F4201-ND
+,,5A,,,,1,F4197-ND
+,,15A,,,,1,F4200-ND
+,,40A,,,,1,F4203-ND
+,,7.5A,,,,1,F4198-ND
+,,1A,,,,2,F4191-ND
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Component Groups:,6,,,,,,
+Component Count:,20,,,,,,
+Fitted Components:,20,,,,,,
+Number of PCBs:,1,,,,,,
+Total components:,20,,,,,,
+Schematic Version:,,,,,,,
+Schematic Date:,,,,,,,
+BoM Date:,5/25/2019 2:43,,,,,,
+Schematic Source:,C:\projects\BAJA\FusePCB\FusePCB.sch,,,,,,
+KiCad Version:,Eeschema (5.0.2)-1,,,,,,

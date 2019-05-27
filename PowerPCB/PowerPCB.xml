@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\projects\BAJA\FusePCB\FusePCB.sch</source>
+    <date>5/25/2019 2:43:50 AM</date>
+    <tool>Eeschema (5.0.2)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>FusePCB.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>M3_Lug</value>
+      <footprint>µ104KiCAD:LVDC_M3_Lug</footprint>
+      <datasheet>36-7771-ND</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8C0C7</tstamp>
+    </comp>
+    <comp ref="F1">
+      <value>Fuse</value>
+      <footprint>µ104KiCAD:Fuse_ATC_ATO_BLADE</footprint>
+      <datasheet>36-3522-ND</datasheet>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8C0CE</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>M3_Lug</value>
+      <footprint>µ104KiCAD:LVDC_M3_Lug</footprint>
+      <datasheet>36-7771-ND</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8C0D6</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>M3_Lug</value>
+      <footprint>µ104KiCAD:LVDC_M3_Lug</footprint>
+      <datasheet>36-7771-ND</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8CF4C</tstamp>
+    </comp>
+    <comp ref="F2">
+      <value>Fuse</value>
+      <footprint>µ104KiCAD:Fuse_ATC_ATO_BLADE</footprint>
+      <datasheet>36-3522-ND</datasheet>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8CF52</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>M3_Lug</value>
+      <footprint>µ104KiCAD:LVDC_M3_Lug</footprint>
+      <datasheet>36-7771-ND</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8CF59</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>M3_Lug</value>
+      <footprint>µ104KiCAD:LVDC_M3_Lug</footprint>
+      <datasheet>36-7771-ND</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8D2FE</tstamp>
+    </comp>
+    <comp ref="F3">
+      <value>Fuse</value>
+      <footprint>µ104KiCAD:Fuse_ATC_ATO_BLADE</footprint>
+      <datasheet>36-3522-ND</datasheet>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8D304</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>M3_Lug</value>
+      <footprint>µ104KiCAD:LVDC_M3_Lug</footprint>
+      <datasheet>36-7771-ND</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8D30B</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>M3_Lug</value>
+      <footprint>µ104KiCAD:LVDC_M3_Lug</footprint>
+      <datasheet>36-7771-ND</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8D326</tstamp>
+    </comp>
+    <comp ref="F4">
+      <value>Fuse</value>
+      <footprint>µ104KiCAD:Fuse_ATC_ATO_BLADE</footprint>
+      <datasheet>36-3522-ND</datasheet>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8D32C</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>M3_Lug</value>
+      <footprint>µ104KiCAD:LVDC_M3_Lug</footprint>
+      <datasheet>36-7771-ND</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8D333</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>M3_Lug</value>
+      <footprint>µ104KiCAD:LVDC_M3_Lug</footprint>
+      <datasheet>36-7771-ND</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8D8BF</tstamp>
+    </comp>
+    <comp ref="F5">
+      <value>Fuse</value>
+      <footprint>µ104KiCAD:Fuse_ATC_ATO_BLADE</footprint>
+      <datasheet>36-3522-ND</datasheet>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8D8C5</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value>M3_Lug</value>
+      <footprint>µ104KiCAD:LVDC_M3_Lug</footprint>
+      <datasheet>36-7771-ND</datasheet>
+      <libsource lib="Connector" part="Screw_Terminal_01x01" description="Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8D8CC</tstamp>
+    </comp>
+    <comp ref="logo1">
+      <value>Logo</value>
+      <footprint>µ104KiCAD:SN_BLOCK</footprint>
+      <libsource lib="u104_KICAD_misc" part="Logo" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8E0EE</tstamp>
+    </comp>
+    <comp ref="H1">
+      <value>M3</value>
+      <footprint>µ104KiCAD:3.4mm_mounting_hole_SILK</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8E299</tstamp>
+    </comp>
+    <comp ref="H2">
+      <value>M3</value>
+      <footprint>µ104KiCAD:3.4mm_mounting_hole_SILK</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8EDDC</tstamp>
+    </comp>
+    <comp ref="H3">
+      <value>M3</value>
+      <footprint>µ104KiCAD:3.4mm_mounting_hole_SILK</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8EF00</tstamp>
+    </comp>
+    <comp ref="H4">
+      <value>M3</value>
+      <footprint>µ104KiCAD:3.4mm_mounting_hole_SILK</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE8EF06</tstamp>
+    </comp>
+    <comp ref="logo2">
+      <value>Logo</value>
+      <footprint>µ104KiCAD:SN_BLOCK</footprint>
+      <libsource lib="u104_KICAD_misc" part="Logo" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE91E84</tstamp>
+    </comp>
+    <comp ref="logo3">
+      <value>Logo</value>
+      <footprint>Symbols:KiCad-Logo_8mm_SilkScreen</footprint>
+      <libsource lib="u104_KICAD_misc" part="Logo" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE91F4C</tstamp>
+    </comp>
+    <comp ref="Crimp1">
+      <value>M3 Ring</value>
+      <datasheet>277-11117-ND</datasheet>
+      <libsource lib="Connector" part="Conn_01x01_Female" description="Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE922EA</tstamp>
+    </comp>
+    <comp ref="FB1">
+      <value>Fuse</value>
+      <libsource lib="Device" part="Fuse" description="Fuse"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5CE925D0</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x01_Female">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Screw_Terminal_01x01">
+      <description>Generic screw terminal, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse">
+      <description>Fuse</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*Fuse*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="u104_KICAD_misc" part="Logo">
+      <fields>
+        <field name="Reference">logo</field>
+        <field name="Value">Logo</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>S:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>S:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>S:\Program Files\KiCad\share\kicad\library/Mechanical.lib</uri>
+    </library>
+    <library logical="u104_KICAD_misc">
+      <uri>C:/projects/PCB-Libraries/KiCAD/µ104_Part_Libs/schematicComponents/u104_KICAD_misc.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(F5-Pad2)">
+      <node ref="F5" pin="2"/>
+      <node ref="J5" pin="1"/>
+    </net>
+    <net code="2" name="Net-(F5-Pad1)">
+      <node ref="J11" pin="1"/>
+      <node ref="F5" pin="1"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="H1" pin="1"/>
+      <node ref="H2" pin="1"/>
+      <node ref="H3" pin="1"/>
+      <node ref="H4" pin="1"/>
+    </net>
+    <net code="4" name="Net-(Crimp1-Pad1)">
+      <node ref="Crimp1" pin="1"/>
+    </net>
+    <net code="5" name="Net-(FB1-Pad1)">
+      <node ref="FB1" pin="1"/>
+    </net>
+    <net code="6" name="Net-(FB1-Pad2)">
+      <node ref="FB1" pin="2"/>
+    </net>
+    <net code="7" name="Net-(F1-Pad2)">
+      <node ref="F1" pin="2"/>
+      <node ref="J1" pin="1"/>
+    </net>
+    <net code="8" name="Net-(F1-Pad1)">
+      <node ref="F1" pin="1"/>
+      <node ref="J7" pin="1"/>
+    </net>
+    <net code="9" name="Net-(F2-Pad2)">
+      <node ref="J2" pin="1"/>
+      <node ref="F2" pin="2"/>
+    </net>
+    <net code="10" name="Net-(F2-Pad1)">
+      <node ref="F2" pin="1"/>
+      <node ref="J8" pin="1"/>
+    </net>
+    <net code="11" name="Net-(F3-Pad2)">
+      <node ref="J3" pin="1"/>
+      <node ref="F3" pin="2"/>
+    </net>
+    <net code="12" name="Net-(F3-Pad1)">
+      <node ref="J9" pin="1"/>
+      <node ref="F3" pin="1"/>
+    </net>
+    <net code="13" name="Net-(F4-Pad2)">
+      <node ref="J4" pin="1"/>
+      <node ref="F4" pin="2"/>
+    </net>
+    <net code="14" name="Net-(F4-Pad1)">
+      <node ref="F4" pin="1"/>
+      <node ref="J10" pin="1"/>
+    </net>
+  </nets>
+</export>

@@ -1,0 +1,117 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Connector_Conn_01x01_Female
+#
+DEF Connector_Conn_01x01_Female J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Connector_Conn_01x01_Female" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*
+$ENDFPLIST
+DRAW
+A 0 0 20 901 -901 1 1 6 N 0 20 0 -20
+P 2 1 1 6 -50 0 -20 0 N
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Connector_Screw_Terminal_01x01
+#
+DEF Connector_Screw_Terminal_01x01 J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Connector_Screw_Terminal_01x01" 0 -100 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ TerminalBlock*:*
+$ENDFPLIST
+DRAW
+C 0 0 25 1 1 6 N
+S -50 50 50 -50 1 1 10 f
+P 2 1 1 6 -21 13 13 -20 N
+P 2 1 1 6 -14 20 20 -13 N
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Mechanical_MountingHole_Pad
+#
+DEF Mechanical_MountingHole_Pad H 0 40 N N 1 F N
+F0 "H" 0 250 50 H V C CNN
+F1 "Mechanical_MountingHole_Pad" 0 175 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ MountingHole*Pad*
+$ENDFPLIST
+DRAW
+C 0 50 50 0 1 50 N
+X 1 1 0 -100 100 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+# Regulator_Switching_TSR_1-2412
+#
+DEF Regulator_Switching_TSR_1-2412 U 0 20 Y Y 1 F N
+F0 "U" -300 250 50 H V L CNN
+F1 "Regulator_Switching_TSR_1-2412" -50 250 50 H V L CNN
+F2 "Converter_DCDC:Converter_DCDC_TRACO_TSR-1_THT" 0 -150 50 H I L CIN
+F3 "" 0 0 50 H I C CNN
+ALIAS TSR_1-2412 TSR_1-2415 TSR_1-2418 TSR_1-2425 TSR_1-2433 TSR_1-2465 TSR_1-2490 TSR_1-24120 TSR_1-24150
+$FPLIST
+ Converter*DCDC*TRACO*TSR?1*
+$ENDFPLIST
+DRAW
+S -300 200 300 -100 0 1 10 f
+X Vin 1 -400 100 100 R 50 50 1 1 W
+X GND 2 0 -200 100 U 50 50 1 1 W
+X Vout 3 400 100 100 L 50 50 1 1 w
+ENDDRAW
+ENDDEF
+#
+# power_GND
+#
+DEF power_GND #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 -250 50 H I C CNN
+F1 "power_GND" 0 -150 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+P 6 0 1 0 0 0 0 -50 50 -50 0 -100 -50 -50 0 -50 N
+X GND 1 0 0 0 D 50 50 1 1 W N
+ENDDRAW
+ENDDEF
+#
+# u104_KICAD_misc_Logo
+#
+DEF u104_KICAD_misc_Logo logo 0 40 Y Y 1 F N
+F0 "logo" -50 100 39 H V C CNN
+F1 "u104_KICAD_misc_Logo" 0 0 39 H V C CNN
+F2 "" 0 0 39 H I C CNN
+F3 "" 0 0 39 H I C CNN
+DRAW
+S -150 50 150 -50 0 1 0 N
+ENDDRAW
+ENDDEF
+#
+# u104_KICAD_pwr_+V
+#
+DEF u104_KICAD_pwr_+V #PWR 0 0 Y Y 1 F P
+F0 "#PWR" 0 0 10 H I C CNN
+F1 "u104_KICAD_pwr_+V" 0 175 40 H V C CNN
+F2 "" 0 0 60 H V C CNN
+F3 "" 0 0 60 H V C CNN
+DRAW
+T 0 0 125 30 0 0 0 + Normal 0 C C
+P 2 0 0 0 -25 50 25 50 N
+P 2 0 0 0 0 0 0 50 N
+P 2 0 1 0 -30 50 0 100 N
+P 2 0 1 0 0 100 30 50 N
+X +V 1 0 0 0 L 10 10 1 1 W N
+ENDDRAW
+ENDDEF
+#
+#End Library
